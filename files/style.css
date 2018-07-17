@@ -3,12 +3,12 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
 body {
-  background-color: blue;
+  background-color: red;
   font-family: "Open Sans", sans-serif;
   padding: 5px 25px;
   font-size: 18px;
   margin: 0;
-  color: greenyellow;
+  color: blue;
 }
 
 h1 {
